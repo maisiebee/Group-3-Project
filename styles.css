@@ -7,6 +7,12 @@
   font-weight: lighter;
 }
 
+.mainquote {
+  justify-content: center;
+  margin: 50px;
+  text-align: center;
+}
+
 .imagebox {
 display: flex;
 justify-content: center;
