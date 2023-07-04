@@ -7,6 +7,15 @@
   font-weight: lighter;
 }
 
+.imagebox {
+display: flex;
+justify-content: center;
+}
+
+iframe {
+  margin: 50px;
+}
+
 #subscribeForm {
   height: 25%;
   width: 70%;
